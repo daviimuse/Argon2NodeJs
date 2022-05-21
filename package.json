@@ -1,0 +1,22 @@
+{
+  "name": "argon2nodejs",
+  "version": "1.0.0",
+  "description": "Argon2 demostration in NodeJs",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviimuse/Argon2NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviimuse/Argon2NodeJs/issues"
+  },
+  "homepage": "https://github.com/daviimuse/Argon2NodeJs#readme",
+  "dependencies": {
+    "argon2": "^0.28.5"
+  }
+}
